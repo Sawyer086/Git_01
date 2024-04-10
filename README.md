@@ -87,4 +87,3 @@
 
 В каталоге terraform будут проигнорированы все файлы, указанные в gitignore. 
 
-Michus Chikudno
