@@ -86,3 +86,5 @@
 ![5](https://github.com/Sawyer086/Git_01/blob/main/Screenshots/5.jpg)
 
 В каталоге terraform будут проигнорированы все файлы, указанные в gitignore. 
+
+Michus Chikudno
